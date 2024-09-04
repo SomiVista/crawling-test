@@ -1,0 +1,8 @@
+{
+  "name": "crawling-test",
+  "version": "0.0.0",
+  "main": "importFileToSubturtle.js",
+  "dependencies": {
+    "puppeteer": "^22.8.0"
+  }
+}

@@ -1,0 +1,477 @@
+[
+  { "word": "Which goes like that", "meaning": "که اینطوری می شود" },
+  {
+    "word": "We live in a country were unexpected things keep happening",
+    "meaning": "ما در کشوری زندگی می کنیم که اتفاقات غیرمنتظره رخ می دهند"
+  },
+  { "word": "Social problems", "meaning": "مشکلات اجتماعی" },
+  { "word": "Inflation", "meaning": "تورم" },
+  { "word": "Corruption", "meaning": "فساد" },
+  { "word": "Etcetera", "meaning": "و غیره" },
+  { "word": "Do it", "meaning": "انجام بده" },
+  { "word": "Get it done", "meaning": "انجامش بده" },
+  { "word": "Do not let yourself down", "meaning": "خودت را ناامید نکن" },
+  { "word": "Shock everyone", "meaning": "همه را شگفت زده کن" },
+  { "word": "All I know is that", "meaning": "همه چیزی که می دانم این است که" },
+  { "word": "Deserve", "meaning": "سزاوار بودن" },
+  {
+    "word": "I'm not in positon to tell you what you do",
+    "meaning": "من در موقعیتی نیستم که به شما بگویم چه کار کنید"
+  },
+  { "word": "Stop underestimating", "meaning": "دست از کم بها دادن بردار" },
+  { "word": "Sacrifice yourself", "meaning": "خودت را فدا کن" },
+  { "word": "The feeling is the best", "meaning": "احساس بهترین است" },
+  { "word": "I find it difficult", "meaning": "من آن را سخت می یابم" },
+  {
+    "word": "You need to burn the midnight oil",
+    "meaning": "باید شب زنده داری کنی"
+  },
+  { "word": "Believe it or not", "meaning": "باور کنی یا نه" },
+  { "word": "Have a clear picture", "meaning": "یک تصویر واضح داشته باش" },
+  { "word": "Keep happening", "meaning": "ادامه دارد" },
+  { "word": "It's not your fault", "meaning": "تقصیر تو نیست" },
+  { "word": "The political climate", "meaning": "فضای سیاسی" },
+  { "word": "We are human beings", "meaning": "ما انسان هستیم" },
+  {
+    "word": "We have emotions and we are not supposed to feel good",
+    "meaning": "ما احساس داریم و قرار نیست همیشه حال خوبی داشته باشیم"
+  },
+  {
+    "word": "You never know how strong you are till being strong is your only choice",
+    "meaning": "شما هرگز نمی‌دانید چقدر قوی هستید تا زمانی که قوی بودن تنها گزینه شما باشد"
+  },
+  {
+    "word": "Staying strong is the only choice you can got",
+    "meaning": "قوی ماندن تنها انتخابی است که می‌توانید داشته باشید"
+  },
+  { "word": "Be strong enough to", "meaning": "به اندازه کافی قوی باش" },
+  { "word": "Be patient enough", "meaning": "به اندازه کافی صبور باش" },
+  {
+    "word": "Every single day every single person has painful story",
+    "meaning": "هر روز هر فرد داستان دردناکی دارد"
+  },
+  { "word": "It is one of those days", "meaning": "یکی از آن روزهاست" },
+  {
+    "word": "Tough times don't last but tough people do",
+    "meaning": "زمان‌های سخت نمی‌مانند اما مردم سخت می‌مانند"
+  },
+  { "word": "Stand by it", "meaning": "از آن حمایت کن" },
+  { "word": "Let's wrap things up", "meaning": "بیا کارها را تمام کنیم" },
+  {
+    "word": "Failing is part of success",
+    "meaning": "شکست بخشی از موفقیت است"
+  },
+  { "word": "This too shall pass", "meaning": "این نیز بگذرد" },
+  {
+    "word": "Every failure is one step closer to success",
+    "meaning": "هر شکست یک قدم نزدیک‌تر به موفقیت است"
+  },
+  { "word": "Competitive", "meaning": "رقابتی" },
+  { "word": "Potential", "meaning": "پتانسیل" },
+  { "word": "Do not give up hope", "meaning": "امید خود را از دست نده" },
+  {
+    "word": "There is no losing only learning there is no failure only opportunities",
+    "meaning": "هیچ باختی وجود ندارد، فقط یادگیری وجود دارد، هیچ شکستی وجود ندارد، فقط فرصت‌ها وجود دارند"
+  },
+  {
+    "word": "There is no problems only solutions",
+    "meaning": "هیچ مشکلی وجود ندارد، فقط راه‌حل‌ها وجود دارند"
+  },
+  {
+    "word": "I have gone through alot in my life",
+    "meaning": "من در زندگی‌ام چیزهای زیادی را پشت سر گذاشته‌ام"
+  },
+  { "word": "Fellow human being", "meaning": "هم نوع انسان" },
+
+  { "word": "Embarrass", "meaning": "خجالت دادن" },
+  { "word": "There is no doubt about it", "meaning": "شکی در آن نیست" },
+  { "word": "Regardless", "meaning": "صرف نظر از" },
+  {
+    "word": "Without consistency you'll never finish",
+    "meaning": "بدون ثبات هرگز به پایان نمی‌رسید"
+  },
+  { "word": "Passionate", "meaning": "پراحساس" },
+  { "word": "Failed experiments", "meaning": "آزمایش‌های ناموفق" },
+  { "word": "You will lose", "meaning": "شما خواهید باخت" },
+  {
+    "word": "You will suck at something",
+    "meaning": "در چیزی افتضاح خواهید بود"
+  },
+  { "word": "Embrace it", "meaning": "آن را بپذیر" },
+  {
+    "word": "Do you have the guts to fail?",
+    "meaning": "آیا جرات شکست خوردن را داری؟"
+  },
+  { "word": "Circumstances", "meaning": "شرایط" },
+  { "word": "Meaningful", "meaning": "معنادار" },
+  { "word": "Meaningless", "meaning": "بی‌معنی" },
+  { "word": "Whereas", "meaning": "در حالی که" },
+  {
+    "word": "Your dreams will come true",
+    "meaning": "رویاهایتان به حقیقت خواهند پیوست"
+  },
+  { "word": "Accomplishment", "meaning": "دستاورد" },
+  { "word": "Do not ruin", "meaning": "خراب نکن" },
+  { "word": "It is an excuse", "meaning": "این بهانه است" },
+  {
+    "word": "Share same commonality",
+    "meaning": "همان اشتراک را به اشتراک بگذارید"
+  },
+  { "word": "The how will show up", "meaning": "چگونه‌اش مشخص خواهد شد" },
+  {
+    "word": "Let your success be the noise",
+    "meaning": "بگذار موفقیت تو سر و صدا باشد"
+  },
+  {
+    "word": "Who knows what the future holds?",
+    "meaning": "چه کسی می‌داند آینده چه دارد؟"
+  },
+  { "word": "You are willing to …", "meaning": "شما مایلید که..." },
+  {
+    "word": "Pay attention to own potential",
+    "meaning": "به پتانسیل خود توجه کنید"
+  },
+  {
+    "word": "Take my advice = this is my advice",
+    "meaning": "نصیحت مرا بپذیر = این نصیحت من است"
+  },
+  { "word": "Nearby", "meaning": "نزدیک" },
+  {
+    "word": "As a former you are trying your best to produce the best crops",
+    "meaning": "به عنوان یک کشاورز تلاش می‌کنید بهترین محصولات را تولید کنید"
+  },
+  { "word": "Responsable", "meaning": "مسئول" },
+  { "word": "Responsibility", "meaning": "مسئولیت" },
+  { "word": "Obviously", "meaning": "به وضوح" },
+  { "word": "Big impact on you", "meaning": "تاثیر بزرگ بر شما" },
+  { "word": "I'm content", "meaning": "من راضی‌ام" },
+  { "word": "The wind blows", "meaning": "باد می‌وزد" },
+  { "word": "Contribute", "meaning": "کمک کردن" },
+  { "word": "Stay tuned", "meaning": "در انتظار باشید" },
+  { "word": "At the very ending of …", "meaning": "در انتهای ..." },
+  { "word": "At the beginning of …", "meaning": "در آغاز ..." },
+  { "word": "It is confusing", "meaning": "گیج کننده است" },
+  { "word": "I am confused", "meaning": "من گیج شده‌ام" },
+  { "word": "Be aware consistency", "meaning": "از سازگاری آگاه باشید" },
+  { "word": "Intention", "meaning": "قصد" },
+  { "word": "Intentionally", "meaning": "از قصد" },
+  { "word": "Deliberately", "meaning": "به عمد" },
+  { "word": "Pros and cons", "meaning": "مزایا و معایب" },
+  { "word": "Advantages and disadvantages", "meaning": "مزایا و معایب" },
+  { "word": "Pluses and minuses", "meaning": "مزایا و معایب" },
+  { "word": "Give me some credit", "meaning": "مرا تحسین کن" },
+  { "word": "Go ahead", "meaning": "ادامه بده" },
+  { "word": "I take some time off", "meaning": "زمانی را استراحت می‌کنم" },
+  { "word": "It is kind of", "meaning": "به نوعی" },
+  {
+    "word": "You have to make tough decision",
+    "meaning": "باید تصمیم سختی بگیری"
+  },
+  {
+    "word": "I will definitely miss all",
+    "meaning": "قطعا دلم برای همه تنگ خواهد شد"
+  },
+  { "word": "I am literally hungry", "meaning": "واقعا گرسنه‌ام" },
+  {
+    "word": "I feel that you have no appetite",
+    "meaning": "احساس می‌کنم اشتها نداری"
+  },
+  { "word": "And when it comes to...", "meaning": "و زمانی که به... می‌رسد" },
+  { "word": "All I know is", "meaning": "همه چیزی که می‌دانم این است" },
+  {
+    "word": "Are you aware of the fact that…",
+    "meaning": "آیا از این واقعیت آگاه هستی که..."
+  },
+  { "word": "Put it off", "meaning": "آن را به تعویق بینداز" },
+  { "word": "By your side", "meaning": "در کنار شما" },
+  { "word": "Once you give up", "meaning": "زمانی که تسلیم شوید" },
+  {
+    "word": "You are neither my son nor my friend",
+    "meaning": "شما نه پسر من هستید و نه دوست من"
+  },
+  { "word": "That's the spirit", "meaning": "این روحیه است" },
+  { "word": "She is not a religious person", "meaning": "او آدم مذهبی نیست" },
+  { "word": "Among the crowd", "meaning": "در میان جمعیت" },
+  { "word": "On the one hand", "meaning": "از یک سو" },
+  { "word": "On the other hand", "meaning": "از سوی دیگر" },
+  { "word": "I am to blame", "meaning": "مقصر من هستم" },
+  { "word": "Boring", "meaning": "خسته کننده" },
+  { "word": "It is boring", "meaning": "خسته کننده است" },
+  { "word": "I am bored", "meaning": "من خسته شده‌ام" },
+  {
+    "word": "We live in a country where unexpected things keep happening",
+    "meaning": "ما در کشوری زندگی می‌کنیم که اتفاقات غیرمنتظره رخ می‌دهند"
+  },
+  { "word": "Be open up", "meaning": "باز بودن" },
+  { "word": "Stand out", "meaning": "برجسته بودن" },
+  { "word": "It's getting complicated", "meaning": "این پیچیده می‌شود" },
+  { "word": "I don't get it", "meaning": "من متوجه نمی‌شوم" },
+  {
+    "word": "I'll give you a second/minute",
+    "meaning": "به تو یک لحظه/دقیقه می‌دهم"
+  },
+  { "word": "Diamond", "meaning": "الماس" },
+  {
+    "word": "They are not flaw/flawless",
+    "meaning": "آنها نقص ندارند/بی‌نقص هستند"
+  },
+  { "word": "A pure", "meaning": "خالص" },
+  { "word": "Be real", "meaning": "واقعی باش" },
+  { "word": "There is no need to be rude", "meaning": "نیازی به بی‌ادبی نیست" },
+  { "word": "Slave", "meaning": "برده" },
+  { "word": "Guilty", "meaning": "گناهکار" },
+  { "word": "This is my right", "meaning": "این حق من است" },
+  { "word": "I have every right to", "meaning": "من کاملاً حق دارم که" },
+  { "word": "Claim", "meaning": "ادعا کردن" },
+  { "word": "Ambitious", "meaning": "بلندپرواز" },
+  { "word": "Blink of an eye", "meaning": "چشم بر هم زدن" },
+  { "word": "Worthless", "meaning": "بی‌ارزش" },
+  { "word": "Blindness", "meaning": "نابینایی" },
+  { "word": "Choice", "meaning": "انتخاب" },
+  { "word": "Choose", "meaning": "انتخاب کردن" },
+  { "word": "Chose", "meaning": "انتخاب کرد" },
+  { "word": "Not breaking news", "meaning": "خبر جدیدی نیست" },
+  { "word": "What boggles my mind", "meaning": "چیزی که ذهنم را درگیر می‌کند" },
+  { "word": "Even though", "meaning": "حتی اگر" },
+  { "word": "Although", "meaning": "با اینکه" },
+  { "word": "Cherish", "meaning": "گرامی داشتن" },
+  { "word": "Iris pattern", "meaning": "الگوی عنبیه" },
+  { "word": "Darkness", "meaning": "تاریکی" },
+  { "word": "Talk in", "meaning": "صحبت کردن" },
+  {
+    "word": "What a plight = what a disaster",
+    "meaning": "چه وضعیتی = چه فاجعه‌ای"
+  },
+  { "word": "Composer", "meaning": "آهنگساز" },
+  { "word": "It is big deal", "meaning": "مسئله بزرگی است" },
+  { "word": "Relate", "meaning": "مربوط بودن" },
+  { "word": "Gradually", "meaning": "به تدریج" },
+  { "word": "Making a living", "meaning": "امرار معاش" },
+  {
+    "word": "A goal broken down two small plans",
+    "meaning": "هدفی که به دو برنامه کوچک تقسیم شده است"
+  },
+  {
+    "word": "It makes your dream come true",
+    "meaning": "این رویایت را به حقیقت می‌رساند"
+  },
+  {
+    "word": "Stay away from still people",
+    "meaning": "از افراد بی‌حرکت دوری کن"
+  },
+  { "word": "Turn it to reality", "meaning": "آن را به واقعیت تبدیل کن" },
+  { "word": "It's like a nightmare", "meaning": "مثل یک کابوس است" },
+  { "word": "We are almost there", "meaning": "ما تقریباً رسیده‌ایم" },
+  { "word": "Inspire", "meaning": "الهام بخشیدن" },
+  { "word": "Thank god", "meaning": "خدا را شکر" },
+  { "word": "Tell me about it", "meaning": "درباره آن به من بگو" },
+  { "word": "You can say that again", "meaning": "می‌توانی دوباره بگویی" },
+  { "word": "On the road to success", "meaning": "در راه موفقیت" },
+  { "word": "A positive attitude", "meaning": "نگرش مثبت" },
+  { "word": "Do whatever it takes", "meaning": "هر چه لازم باشد انجام بده" },
+  { "word": "You are on a mission", "meaning": "تو در یک مأموریت هستی" },
+  { "word": "Savior", "meaning": "نجات‌دهنده" },
+  { "word": "Do not blame others", "meaning": "دیگران را سرزنش نکن" },
+  { "word": "Is that a threat?", "meaning": "آیا این تهدید است؟" },
+  { "word": "Phenomenon", "meaning": "پدیده" },
+  { "word": "We are almost there", "meaning": "ما تقریباً رسیده‌ایم" },
+  { "word": "Unexpected pointview", "meaning": "نقطه‌نظر غیرمنتظره" },
+  { "word": "Lays the foundation", "meaning": "پایه‌ریزی می‌کند" },
+  { "word": "Response", "meaning": "پاسخ" },
+  { "word": "Respond", "meaning": "پاسخ دادن" },
+  { "word": "Take it seriously", "meaning": "آن را جدی بگیر" },
+  { "word": "Do not ignore me", "meaning": "مرا نادیده نگیر" },
+  { "word": "Do you want me to be honest", "meaning": "می‌خواهی صادق باشم؟" },
+  { "word": "Everybody is a genius", "meaning": "همه نابغه هستند" },
+  {
+    "word": "I accuse school of killing creatively",
+    "meaning": "من مدارس را به کشتن خلاقیت متهم می‌کنم"
+  },
+  { "word": "Claim", "meaning": "ادعا کردن" },
+  { "word": "Innovatively", "meaning": "به طور خلاقانه" },
+  { "word": "Independently", "meaning": "به طور مستقل" },
+  { "word": "Prescribe", "meaning": "تجویز کردن" },
+  { "word": "Strong", "meaning": "قوی" },
+  { "word": "Strength", "meaning": "قدرت" },
+  { "word": "Gets blamed", "meaning": "سرزنش می‌شود" },
+  { "word": "Outlandish", "meaning": "عجیب و غریب" },
+  { "word": "Impressive things", "meaning": "چیزهای تاثیرگذار" },
+  { "word": "Non-existence", "meaning": "عدم وجود" },
+  { "word": "I have a confession to make", "meaning": "باید اعترافی بکنم" },
+  { "word": "Progressed", "meaning": "پیشرفت کرده" },
+  { "word": "Knowledge pleases god", "meaning": "دانش خدا را خوشحال می‌کند" },
+  { "word": "You have my word", "meaning": "به تو قول می‌دهم" },
+  { "word": "Crude abandon", "meaning": "ترک خام" },
+  { "word": "Soulmate", "meaning": "هم‌روح" },
+  { "word": "The right one", "meaning": "شخص درست" },
+  { "word": "At an early age", "meaning": "در سنین جوانی" },
+  { "word": "Commitment", "meaning": "تعهد" },
+  { "word": "Companionship", "meaning": "هم‌صحبتی" },
+  { "word": "Roadblock", "meaning": "مانع" },
+  { "word": "Mental roadblock", "meaning": "مانع ذهنی" },
+  { "word": "Believe it or not", "meaning": "باور کنی یا نه" },
+  { "word": "Love fades away", "meaning": "عشق از بین می‌رود" },
+  { "word": "On my own", "meaning": "تنها" },
+  {
+    "word": "We have nothing in common",
+    "meaning": "ما هیچ وجه اشتراکی نداریم"
+  },
+  { "word": "So called love", "meaning": "به اصطلاح عشق" },
+  {
+    "word": "We try to show companionship",
+    "meaning": "سعی می‌کنیم همدلی نشان دهیم"
+  },
+  { "word": "No offense", "meaning": "بی‌توهین" },
+  { "word": "It is getting downloaded", "meaning": "در حال دانلود شدن است" },
+  { "word": "I got punished", "meaning": "من مجازات شدم" },
+  { "word": "It has gotten washed", "meaning": "شسته شده است" },
+  { "word": "By the time they leave", "meaning": "تا زمانی که آنها بروند" },
+  { "word": "By the time he arrives", "meaning": "تا زمانی که او برسد" },
+  {
+    "word": "I have been able to be successful",
+    "meaning": "توانسته‌ام موفق باشم"
+  },
+  {
+    "word": "I have never able to leave her",
+    "meaning": "هرگز نتوانستم او را ترک کنم"
+  },
+  {
+    "word": "If I study, I will pass the exam",
+    "meaning": "اگر درس بخوانم، امتحان را قبول می‌شوم"
+  },
+  {
+    "word": "If I studied, I would pass the exam",
+    "meaning": "اگر درس می‌خواندم، امتحان را قبول می‌شدم"
+  },
+  {
+    "word": "If I had studied, I would have passed the exam",
+    "meaning": "اگر درس خوانده بودم، امتحان را قبول می‌شدم"
+  },
+  { "word": "Mama's boy", "meaning": "پسر مامان" },
+  {
+    "word": "What can I call you?",
+    "meaning": "چه چیزی می‌توانم تو را صدا کنم؟"
+  },
+  { "word": "Spoiled", "meaning": "لوس" },
+  {
+    "word": "Every other day/night",
+    "meaning": "یک روز در میان/یک شب در میان"
+  },
+  {
+    "word": "I used to call me Somayeh",
+    "meaning": "قبلاً من را سمیه صدا می‌زدند"
+  },
+  {
+    "word": "Do you happen to know someone who …",
+    "meaning": "آیا کسی را می‌شناسی که ..."
+  },
+  { "word": "I happen to see her yesterday", "meaning": "دیروز او را دیدم" },
+  { "word": "As a boy", "meaning": "به عنوان یک پسر" },
+  { "word": "Animal/plant species", "meaning": "گونه‌های حیوانی/گیاهی" },
+  {
+    "word": "What makes you different from the rest?",
+    "meaning": "چه چیزی شما را از دیگران متمایز می‌کند؟"
+  },
+  { "word": "Environmentalist", "meaning": "طرفدار محیط زیست" },
+  { "word": "How happy I was", "meaning": "چقدر خوشحال بودم" },
+  {
+    "word": "Mind if I ask you some questions?",
+    "meaning": "اشکالی ندارد اگر چند سوال از شما بپرسم؟"
+  },
+  { "word": "She gets on my nerve", "meaning": "او اعصابم را خرد می‌کند" },
+  { "word": "Authentic", "meaning": "اصیل" },
+  {
+    "word": "Who do you take after? I take after my dad",
+    "meaning": "به چه کسی رفته‌ای؟ من به پدرم رفته‌ام"
+  },
+  { "word": "Baby sister", "meaning": "خواهر کوچولو" },
+  { "word": "It's not me", "meaning": "این من نیستم" },
+  { "word": "That is not my thing", "meaning": "این کار من نیست" },
+  { "word": "That is not quite me", "meaning": "این کاملاً من نیست" },
+  { "word": "Polite", "meaning": "مودب" },
+  { "word": "She's there always for me", "meaning": "او همیشه برای من هست" },
+  {
+    "word": "I have always leoed to or I Leo too",
+    "meaning": "همیشه به لئو علاقه داشتم یا من هم لئو هستم"
+  },
+  { "word": "Don't make it shit personal", "meaning": "این را شخصی نکن" },
+  { "word": "No offense", "meaning": "بی‌توهین" },
+  { "word": "An untold story", "meaning": "یک داستان ناگفته" },
+  { "word": "Man is not necessity", "meaning": "مرد ضروری نیست" },
+  { "word": "How long does it take", "meaning": "چقدر طول می‌کشد" },
+  {
+    "word": "You are different from the rest",
+    "meaning": "شما از دیگران متفاوت هستید"
+  },
+  { "word": "Take it into consideration", "meaning": "این را در نظر بگیرید" },
+  {
+    "word": "It molds our personality",
+    "meaning": "این شخصیت ما را شکل می‌دهد"
+  },
+  { "word": "Characteristics", "meaning": "ویژگی‌ها" },
+  { "word": "A pain in the neck", "meaning": "آزاردهنده" },
+  { "word": "Adopt yourself", "meaning": "خودت را تطبیق بده" },
+  { "word": "I do care about it", "meaning": "من به آن اهمیت می‌دهم" },
+  { "word": "He checks on me", "meaning": "او مرا چک می‌کند" },
+  { "word": "He is talented", "meaning": "او با استعداد است" },
+  {
+    "word": "Have somebody do something",
+    "meaning": "کسی را به انجام کاری وا داشتن"
+  },
+  {
+    "word": "I have you study English a lot",
+    "meaning": "من شما را وادار می‌کنم که زیاد انگلیسی بخوانید"
+  },
+  { "word": "An ideal thing", "meaning": "یک چیز ایده‌آل" },
+  { "word": "Happy wife, happy life", "meaning": "همسر خوشحال، زندگی خوشحال" },
+  { "word": "We vibe together", "meaning": "ما با هم هماهنگ هستیم" },
+  {
+    "word": "Vibes speak louder than words",
+    "meaning": "ارتعاشات بلندتر از کلمات صحبت می‌کنند"
+  },
+  { "word": "Invite", "meaning": "دعوت کردن" },
+  { "word": "Invitation", "meaning": "دعوت" },
+  { "word": "I'm flattered", "meaning": "خوشحالم" },
+  { "word": "Go-getter", "meaning": "کسی که به هدف می‌رسد" },
+  { "word": "I worship him", "meaning": "من او را می‌پرستم" },
+  { "word": "I'm an only child", "meaning": "من تک فرزند هستم" },
+  { "word": "Are you spoiled?", "meaning": "آیا لوس هستی؟" },
+  {
+    "word": "Words cannot touch what's in my heart now",
+    "meaning": "کلمات نمی‌توانند آنچه را که اکنون در قلبم است بیان کنند"
+  },
+  { "word": "The whole story", "meaning": "کل داستان" },
+  {
+    "word": "It's nice to have a friend",
+    "meaning": "خوب است که یک دوست داشته باشی"
+  },
+  { "word": "I've been always", "meaning": "همیشه بوده‌ام" },
+  { "word": "Don't copy me", "meaning": "از من تقلید نکن" },
+  { "word": "She/he/… is lit", "meaning": "او عالی است" },
+  { "word": "When it comes to …", "meaning": "وقتی به ... می‌رسد" },
+  {
+    "word": "Everybody keeps telling me that you're so patient",
+    "meaning": "همه به من می‌گویند که شما خیلی صبور هستید"
+  },
+  { "word": "What makes you special", "meaning": "چه چیزی شما را خاص می‌کند" },
+  { "word": "I want you to …", "meaning": "می‌خواهم که ..." },
+  {
+    "word": "I tend to wake up early in the morning",
+    "meaning": "من تمایل دارم صبح زود بیدار شوم"
+  },
+  { "word": "I am all set", "meaning": "من آماده‌ام" },
+  { "word": "I am all ears", "meaning": "من سراپا گوشم" },
+  { "word": "I am good at", "meaning": "من در ... خوب هستم" },
+  { "word": "I have a crush on him", "meaning": "به او علاقه دارم" },
+  { "word": "Commit suicide", "meaning": "خودکشی کردن" },
+  { "word": "What's your thing?", "meaning": "علاقه‌ات چیست؟" },
+  { "word": "That's my girl/boy", "meaning": "اون دختر/پسر مورد علاقه منه" },
+  { "word": "He got murdered", "meaning": "او به قتل رسید" },
+  { "word": "I am a movie freak", "meaning": "عاشق فیلم" },
+  { "word": "A three-day-long trip", "meaning": "یک سفر سه روزه" },
+  {
+    "word": "He leads a group of people",
+    "meaning": "او گروهی از مردم را رهبری می کند"
+  },
+  { "word": "Twist", "meaning": "پیچ خوردگی" }
+]
